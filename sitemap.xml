@@ -2,11 +2,11 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://tofuliang.github.com/blog/2013/04/16/learning-how-to-use-octopress/</loc>
-        <lastmod>2013-04-17T00:19:42+08:00</lastmod>
+        <lastmod>2013-04-17T00:32:01+08:00</lastmod>
     </url>
     <url>
         <loc>http://tofuliang.github.com/blog/archives/</loc>
-        <lastmod>2013-04-17T00:19:42+08:00</lastmod>
+        <lastmod>2013-04-17T00:32:01+08:00</lastmod>
     </url>
     <url>
         <loc>http://tofuliang.github.com/robots.txt</loc>
@@ -14,6 +14,6 @@
     </url>
     <url>
         <loc>http://tofuliang.github.com/</loc>
-        <lastmod>2013-04-17T00:19:42+08:00</lastmod>
+        <lastmod>2013-04-17T00:32:01+08:00</lastmod>
     </url>
 </urlset>

@@ -9,7 +9,7 @@
   <meta name="author" content="Tofuliang">
 
   
-  <meta name="description" content="Hello world test song 1
+  <meta name="description" content="Hello world test 1
 phpinfo(); 1
 alert(&quot;你好 世界!&quot;); ">
   
@@ -100,14 +100,16 @@ alert(&quot;你好 世界!&quot;); ">
 
 <h2>test</h2>
 
-<p><img src="http://www.fantouch.me/tofu/baidu.php?/get/384500/1963222956/%2Fblog_pic/1.png" alt="" />
-<a href="audio:http://www.fantouch.me/tofu/baidu.php?/get/323880/1963222956.mp3">song</a>
-<video width='' height='' preload='none' controls poster=''><source src='http://www.fantouch.me/tofu/baidu.php?/get/323880/1963222956.mp3' ></video></p>
+<p><video width='' height='' preload='none' controls poster=''><source src='http://www.fantouch.me/tofu/baidu.php?/get/323880/1963222956.mp3' ></video></p>
+
+<p><img src="http://www.fantouch.me/tofu/baidu.php?/get/384500/1963222956/%2Fblog_pic/1.png" alt="" /></p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class='php'><span class='line'><span class="x">phpinfo();</span>
 </span></code></pre></td></tr></table></div></figure>
 
+
+<p></p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class='js'><span class='line'><span class="nx">alert</span><span class="p">(</span><span class="s2">&quot;你好 世界!&quot;</span><span class="p">);</span>
@@ -139,7 +141,45 @@ alert(&quot;你好 世界!&quot;); ">
   </ul>
 </section>
 
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  
+  <a href="https://github.com/tofuliang">@tofuliang</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
 
+        github.showRepos({
+            user: 'tofuliang',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/tofuliang?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
 
 
 
@@ -159,6 +199,14 @@ alert(&quot;你好 世界!&quot;); ">
 
 
 
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
 
 
 

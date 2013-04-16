@@ -4,7 +4,7 @@
   <title><![CDATA[Tofuliang's Working Blog]]></title>
   <link href="http://tofuliang.github.com/atom.xml" rel="self"/>
   <link href="http://tofuliang.github.com/"/>
-  <updated>2013-04-17T00:19:53+08:00</updated>
+  <updated>2013-04-17T00:32:17+08:00</updated>
   <id>http://tofuliang.github.com/</id>
   <author>
     <name><![CDATA[Tofuliang]]></name>
@@ -22,14 +22,16 @@
 
 <h2>test</h2>
 
-<p><img src="http://www.fantouch.me/tofu/baidu.php?/get/384500/1963222956/%2Fblog_pic/1.png" alt="" />
-<a href="audio:http://www.fantouch.me/tofu/baidu.php?/get/323880/1963222956.mp3">song</a>
-<video width='' height='' preload='none' controls poster=''><source src='http://www.fantouch.me/tofu/baidu.php?/get/323880/1963222956.mp3' ></video></p>
+<p><video width='' height='' preload='none' controls poster=''><source src='http://www.fantouch.me/tofu/baidu.php?/get/323880/1963222956.mp3' ></video></p>
+
+<p><img src="http://www.fantouch.me/tofu/baidu.php?/get/384500/1963222956/%2Fblog_pic/1.png" alt="" /></p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class='php'><span class='line'><span class="x">phpinfo();</span>
 </span></code></pre></td></tr></table></div></figure>
 
+
+<p></p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class='js'><span class='line'><span class="nx">alert</span><span class="p">(</span><span class="s2">&quot;你好 世界!&quot;</span><span class="p">);</span>
